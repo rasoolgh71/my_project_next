@@ -28,6 +28,9 @@ export default function RootLayout({
     <html lang="en">
     <body>
     <h1>hello rasool</h1>
+    <li>
+      <Link href="/get_data">get data</Link>
+    </li>
     <ul>
       <li>
         <Link href="/">home</Link>
